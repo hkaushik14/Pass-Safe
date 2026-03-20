@@ -12,7 +12,7 @@ const Navbar = () => {
                   
                     
                     </div>
-                <a href="https://github.com/hkaushik14/js" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/hkaushik14/Pass-Safe" target="_blank" rel="noopener noreferrer">
                 <button className='text-white bg-blue-500 my-5 mx-2 rounded-full flex  justify-between items-center ring-white ring-1 hover:border-l'> 
                     <img className='invert  w-10 p-1' src="/icons/github.svg" alt="github logo" />
                     <span className='font-bold px-2'>GitHub</span>
